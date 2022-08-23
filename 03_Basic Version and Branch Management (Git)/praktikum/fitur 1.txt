@@ -1,0 +1,4 @@
+ini main
+halaman utama
+ini fitur a
+ini fitur b
